@@ -1,0 +1,10 @@
+services: []
+package_name: Bachelor_Project_UI
+allow_embedding: false
+name: Bachelor Project UI
+runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
+  server_spec: null}
+metadata: {}
+startup_form: Home
+db_schema: {}
+renamed: true
