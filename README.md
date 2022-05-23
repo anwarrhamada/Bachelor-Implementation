@@ -17,9 +17,9 @@ These notebooks aim to predict a building's energy consumption over 2017 and 201
 
 
 
-- The 1st notebook covered understanding the data and the features involved as well as a detailed EDA(Exploratory Data Analysis).
-- The 2nd notebook focused on building the optimal machine learning model which turned out to be the **light GBM** model.
-- The 3rd notebook focused on generating the predictions using the **light GBM** model and summary for the whole project.
+- The **1st notebook** covered understanding the data and the features involved as well as a detailed EDA(Exploratory Data Analysis).
+- The **2nd notebook** focused on building the optimal machine learning model which turned out to be the **light GBM** model.
+- The **3rd notebook** focused on generating the predictions using the **light GBM** model and providing a summary for the whole project.
 
 
 &nbsp;
