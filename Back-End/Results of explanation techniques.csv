@@ -1,0 +1,97 @@
+Results
+season is one of the most effective features for consumption of energy
+Number of days where the air conditioner is used affects the consumption of energy for a building.
+Number of months where the air conditioner is used affects the consumption of energy for a building.
+meter and building_id can be used to predict the rate of consumption by an R2 score of 94%.
+"meter,building_id, and day_of_month can be used to predict the rate of consumption by an R2 score of 94.2%.."
+day_of_month only has a 50% effect on the rate of consumption.
+"day_of_month,season,meter,building_id,and square_feet had the same effect on the rate of energy consumption."
+"primary_use,day_of_month,day_of_week,season,meter,building_id,and square_feet are the most important features for consumption forecasting"
+site_id and square_feet have decreased the rate of consumption prediction by 8%.
+site_id and square feet are not useful for energy consumption.
+square_feet hasn't contributed in the final prediction.
+precip_depth_1_hasn't contributed in the final prediction
+precip_depth_1_hr and square_feet reduce the accuracy of forecasting by 1%.
+"primary_use,day_of_week,day_of_month,season,meter,building_id,square_feet gained more forecasting importance by forward feature selection."
+wind_speed is detected as the main source of causing season change in the dataset.
+meter is the best candidate for forecasting when it comes to the decision tree regressor.
+Decision tree regressor and classifier are both used for feature selection.
+"meter ,site_id, and building_age are the most important features for energy consumption of the building."
+building_age is important for energy forecasting.
+"Using building_age,the MSE for energy forecasting is 0.14."
+"Using site_id,the MSE for energy forecasting is 3.99."
+"Using site_id as main cause,the MSE for energy forecasting is 3.86."
+"Using site_id as a second main cause,the MSE for energy forecasting is 3.80."
+"Using building_age,the MSE for energy forecasting has improved ."
+"Using building_age,the MSE for energy forecasting has improved by 50%."
+Decision tree reggresor is used as a regression model
+Random forest regressor is used as a regression model.
+"building_id,month,and meter are most important faetures based on the light LGB model."
+meter is the most important feature according to light LGB and decision tree regressor.
+site_id is not important for energy consumption forecasting.
+hours_of_usage is important for energy consumption forecasting.
+24 features are used for energy consumption regression.
+Logarithms of energy consumption are used for regresssion.
+Forward feature selection is used for energy consumption.
+house_square_feet is an important feature for regression model with the use of light LGB.
+building_id is the most important feature.
+meter is very important.
+month is very important.
+day of month is very important.
+square_feet is important.
+season is important.
+air_temperature is important.
+dew_temperature is important.
+building_age is important.
+site_id is not so important.
+primary_use is not so important
+day_of_week is not so important
+mean dew_tempereature and sea_level_pressure are not  important
+mean air_temperature and precip_depth_1_hr  are not  important.
+day_of_week is not important.
+primary_use is important.
+day_of_week is important.
+day_of_month is important.
+meter is important.
+building_id and square_feet are important features.
+cloud_coverage and day_of_week are not important.
+mean sea_level_pressure and wind_speed are negatively affecting the result of the regression.
+weather_condition is important.
+characteristics of the house are also important.
+weather subclasses are more important than building subclasses.
+day_of_month is also affecting the forecasting.
+weather_condition is important for energy prediction.
+weather is important.
+weather and building_age are input features 
+weather affects the features of the building's structure.
+square_meter is the most important feature out of all building's features.
+wind_speed affects the environment.
+day_of_month is one of the season's features.
+season and hours_of_day affect the consumption rate.
+Energy consumption affects the working condition. 
+day_of_month is an important feature.
+building_age is important for feature extraction of energy consumption.
+mean cloud_coverage and wind_speed are not important.
+"day_of_month,dew_temperature,hour,season,month,meter,precip_depth_1_hr,building_id,site_id, and square_feet are input features."
+"building_age,primary_use,is_weekend,wind_speed,cloud_coverage,day_of_week are input features."
+"mean sea_level_pressure_wind_speed,wind_compass_direction,mean cloud_coverage,and sea_level_pressure are input features."
+air_temperature is an important feature.
+mean air_temperature and sea_level_pressure are important features for work
+sea_level_pressure is an important feature for work
+mean precip_depth_1_hr and sea_level_pressure are not important.
+6 features are optimal for feature extraction.
+10 features won't affect the accuracy of the work. 
+24 features are not good for feature extraction.
+Winter and summer are the two seasons that affect energy consumption the most.
+temperature_of_electricity and daily_temperature are 10°C in winter and 22°C in summer respectively.
+hot_climate is one of the key factors that influence the energy consumption
+"Due to the economic development and the improvement of living standards, an increase in electricity consumption is needed"
+The number of air conditioners per 100 households was 200 in urban and 147 in rural area in 2010
+The seasonal variations of electricity demand and temperature are compared.
+"In summer, the electricity consumption utterly increases due to the great demand on cooling."
+"In winter, the electricity consumption decreases due the demand being mainly dependant on heating."
+It is concluded that the base temperatures of electricity consumption reach 22°C in summer and are below 10°C in winter.
+precip_depth_1_hr and square_feet reduce the accuracy of forecasting by 1.2%.
+meter is the most important feature.
+month is the most important feature.
+day_of_month is the most important feature.
