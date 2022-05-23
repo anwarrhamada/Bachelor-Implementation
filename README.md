@@ -77,6 +77,8 @@ To be able to run the Anvil app that has the client code, you should first conne
 
 ![Save The Energy _ Anvil - Google Chrome 23_05_2022 7_10_57 PM](https://user-images.githubusercontent.com/87882755/169873585-617e7ae1-02dc-4781-9c52-bb90beb3c408.png)
 &nbsp;
+&nbsp;
+&nbsp;
 ![Save The Energy _ Anvil - Google Chrome 23_05_2022 7_11_19 PM](https://user-images.githubusercontent.com/87882755/169873614-1caec677-a2ba-4c58-9e8e-6001296e9a20.png)
 
 
