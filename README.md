@@ -24,7 +24,7 @@ These notebooks aim to predict a building's energy consumption over 2017 and 201
 
 &nbsp;
 
-Using the data and the generated predictions from these notebooks , I started my implementation where I used **Python** to apply 3 different algorithms(**feature selection,feature importance, and decision tree**) with the help of 3 different models(**random forest regressor,gbrt, and decision tree regressor**) to generate explanations for the predictions obtained by the **light GBM** model(used in the notebooks) to determine the most contributing features in these predictions. Then, I used some libraries and functions, to be able to build the knowledge graphs and I also tested my implementation by constructing two graphs, one containing all the features and explanations obtained, while the other contains the essential attributes in terms of all the algorithms of explanation.
+Using the data and the generated predictions from these notebooks , I started my implementation where I used **Python** to apply 3 different algorithms(**feature selection,feature importance, and decision tree**) with the help of 3 different models(**random forest regressor,gbrt, and decision tree regressor**). The main aim for using these techniques and machine learning models was to generate explanations for the predictions obtained by the **light GBM** model(used in the notebooks) to determine the most contributing features in these predictions. Then, I used some libraries and functions, to be able to build the knowledge graphs and I also tested my implementation by constructing two graphs, one containing all the features and explanations obtained, while the other contains the essential attributes in terms of all the algorithms of explanation.
 
 &nbsp;
 
@@ -66,7 +66,7 @@ To be able to run the Anvil app that has the client code, you should first conne
    ```
 
 
-**3)** Connect to the Uplink:
+**3)** Connect to the **Uplink**:
    
    ```
    anvil.server.connect("your-uplink-key")
@@ -92,7 +92,7 @@ Then copy the **Uplink key** of the server code,which is the one highlighted in 
 
 
 
-**5)** Finally, run all the cells of the Colab notebook.
+**5)** Finally, run all the cells of the **Colab** notebook.
 
 
 &nbsp;
