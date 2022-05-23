@@ -75,6 +75,8 @@ To be able to run the Anvil app that has the client code, you should first conne
 
 **4)** Replace **“your-uplink-key”** with the Uplink key from your app:
 
+&nbsp;
+
 Click on the **Settings** icon, then choose **Uplink**.
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/87882755/169875847-4e1b5d84-7e04-4374-8658-05446605f6ec.png)
@@ -86,16 +88,9 @@ Then copy the **Uplink key** of the server code,which is the one highlighted in 
 
 
 
-**5)** You will find this line of code written before any function needed to run the app:
-
-   ```
-   @anvil.server.callable
-   ```
-
-
-**6)** Finally, run all the cells of the Colab notebook.
+**5)** Finally, run all the cells of the Colab notebook.
 
 
 &nbsp;
 
-If you're done with the previous steps, then you have successfully connected the client code with the server code and you can now run the app! 
+You will find the line **"@anvil.server.callable"** written before any function in the Colab notebook needed to run the app.If you're done with the previous steps, then you have successfully connected the client code with the server code and you can now run the app! 
