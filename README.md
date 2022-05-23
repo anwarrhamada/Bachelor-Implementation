@@ -1,11 +1,11 @@
 # Save-The-Energy
 This repository contains both the client and server codes for my bachelor project. My project involves using knolwedge graphs to explain predictions that were made regarding energy consumption for both 2017 and 2018 based on the consumption in 2016. 
 
-&nbsp
+&nbsp;
 
 I used these 3 notebook from **Kaggle** in my implementation:
 
-&nbsp
+&nbsp;
 
 1) https://www.kaggle.com/code/cereniyim/save-the-energy-for-the-future-1-detailed-eda
 2) https://www.kaggle.com/code/cereniyim/save-the-energy-for-the-future-2-fe-lightgbm/notebook
