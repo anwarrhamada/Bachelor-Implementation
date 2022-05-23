@@ -76,10 +76,11 @@ To be able to run the Anvil app that has the client code, you should first conne
 **4)** Replace **“your-uplink-key”** with the Uplink key from your app:
 
 Click on the **Settings** icon, then choose **Uplink**.
-![alt text](https://user-images.githubusercontent.com/87882755/169874559-6fd77741-476c-499d-85cc-4854419c0f0d.png)
-Then copy the **Uplink key** of the server code,which is the one highlighted in the image below:
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/87882755/169874559-6fd77741-476c-499d-85cc-4854419c0f0d.png">
 &nbsp;
-![alt text](https://user-images.githubusercontent.com/87882755/169873614-1caec677-a2ba-4c58-9e8e-6001296e9a20.png)
+Then copy the **Uplink key** of the server code,which is the one highlighted in the image below:
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/87882755/169873614-1caec677-a2ba-4c58-9e8e-6001296e9a20.png">
+&nbsp;
 
 **5)** You will find this line of code written before any function needed to run the app:
 
