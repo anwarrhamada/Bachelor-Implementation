@@ -86,6 +86,8 @@ Click on the **Settings** icon, then choose **Uplink**.
 
 Then copy the **Uplink key** of the server code,which is the one highlighted in the image below:
 
+&nbsp;
+
 ![Save The Energy _ Anvil - Google Chrome 23_05_2022 7_11_19 PM](https://user-images.githubusercontent.com/87882755/169875889-3afbc7fc-4ea4-4109-9570-5895a6a91cb5.png)
 
 
