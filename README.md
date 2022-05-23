@@ -97,4 +97,4 @@ Then copy the **Uplink key** of the server code,which is the one highlighted in 
 
 &nbsp;
 
-You will find the line **"@anvil.server.callable"** written before any function in the Colab notebook needed to run the app.If you're done with the previous steps, then you have successfully connected the client code with the server code and you can now run the app! 
+You will find the line **@anvil.server.callable** written before any function in the Colab notebook needed to run the app.If you're done with the previous steps, then you have successfully connected the client code with the server code and you can now run the app! 
