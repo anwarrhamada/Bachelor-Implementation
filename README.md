@@ -5,17 +5,17 @@ This repository contains both the client and server codes for my bachelor projec
 
 I used these 3 notebook from **Kaggle** in my implementation:
 
-&nbsp;
+
 
 1) https://www.kaggle.com/code/cereniyim/save-the-energy-for-the-future-1-detailed-eda
 2) https://www.kaggle.com/code/cereniyim/save-the-energy-for-the-future-2-fe-lightgbm/notebook
 3) https://www.kaggle.com/code/cereniyim/save-the-energy-for-the-future-3-predictions/notebook
 
-&nbsp
+&nbsp;
 
 These notebooks aim to predict a building's energy consumption over 2017 and 2018 using the data from 2016 in 4 different consumpiton categories (electricity, chilled water, steam, hot water) using **ASHRAE** data where:
 
-&nbsp
+
 
 - The 1st notebook covered understanding the data and the features involved as well as a detailed EDA(Exploratory Data Analysis).
 - The 2nd notebook focused on building the optimal machine learning model which turned out to be the **light GBM model**.
@@ -33,60 +33,60 @@ Furthermore, I constructed a simple database consisting of 19 functions using **
 &nbsp
 
 
--Here is the link for the source code of the **Anvil** app: https://anvil.works/build#clone:5B6U2YV67EORTGGG=6ZUQEFWMCSFEEMV3XIQJC233
+- Here is the link for the source code of the **Anvil** app: https://anvil.works/build#clone:5B6U2YV67EORTGGG=6ZUQEFWMCSFEEMV3XIQJC233
 
-&nbsp
 
--Here is the link for the .ipynb **Google Colab** file containing the source code for the explanation algorithms: 
+
+- Here is the link for the .ipynb **Google Colab** file containing the source code for the explanation algorithms: 
 https://colab.research.google.com/drive/1jmPHAJsv9ZPuSEYTErS5-Sha7efxhV6I?usp=sharing
 
-&nbsp
 
--Here is the link for the .ipynb **Google Colab** file containing the source code for constructing the knowledge graph and the ontology:
+
+- Here is the link for the .ipynb **Google Colab** file containing the source code for constructing the knowledge graph and the ontology:
 https://colab.research.google.com/drive/1NWJ28DYVF9pMpEAzG_WqpYr4dhoSxxgn?usp=sharing
 
 
-&nbsp
+&nbsp;
 
 To be able to run the Anvil app that has the client code, you should first connect the app to the Colab notebook containing the source code for constructing the knowledge graph and the ontology. To do so, you need to :
 
-&nbsp
+
 
 **1)** Install the **anvil-uplink** library in the Colab environment using the command:
    
    ```
    !pip install anvil-uplink
    ```
-&nbsp
+
 
 **2)** Importing the **anvil.server module**:
    
    ```
    import anvil.server
    ```
-&nbsp
+
 
 **3)** Connect to the Uplink:
    
    ```
    anvil.server.connect("your-uplink-key")
    ```
-&nbsp
+
 
 **4)** Replace **“your-uplink-key”** with the Uplink key from your app. 
 
-&nbsp
+
 
 **5)** You will find this line of code written before any function needed to run the app:
 
    ```
    @anvil.server.callable
    ```
-&nbsp
+
 
 **6)** Finally, run all the cells of the Colab notebook.
 
 
-&nbsp
+&nbsp;
 
 If you're done with the previous steps, then you have successfully connected the client code with the server code and you can now run the app! 
