@@ -3,7 +3,7 @@ This repository contains both the client and server codes for my bachelor projec
 
 &nbsp;
 
-I used these 3 notebook from **Kaggle** in my implementation:
+I used these 3 notebook published on **Kaggle** in my implementation:
 
 
 
