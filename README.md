@@ -76,11 +76,15 @@ To be able to run the Anvil app that has the client code, you should first conne
 **4)** Replace **“your-uplink-key”** with the Uplink key from your app:
 
 Click on the **Settings** icon, then choose **Uplink**.
-<img align="left" width="460" height="300" src="https://user-images.githubusercontent.com/87882755/169874559-6fd77741-476c-499d-85cc-4854419c0f0d.png">
-&nbsp;
+
+![Screenshot (1)](https://user-images.githubusercontent.com/87882755/169875847-4e1b5d84-7e04-4374-8658-05446605f6ec.png)
+
+
 Then copy the **Uplink key** of the server code,which is the one highlighted in the image below:
-<img align="left" width="460" height="300" src="https://user-images.githubusercontent.com/87882755/169873614-1caec677-a2ba-4c58-9e8e-6001296e9a20.png">
-&nbsp;
+
+![Save The Energy _ Anvil - Google Chrome 23_05_2022 7_11_19 PM](https://user-images.githubusercontent.com/87882755/169875889-3afbc7fc-4ea4-4109-9570-5895a6a91cb5.png)
+
+
 
 **5)** You will find this line of code written before any function needed to run the app:
 
