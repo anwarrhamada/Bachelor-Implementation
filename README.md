@@ -22,15 +22,15 @@ These notebooks aim to predict a building's energy consumption over 2017 and 201
 - The 3rd notebook focused on generating the predictions using the **light GBM** model and summary for the whole project.
 
 
-&nbsp
+&nbsp;
 
 Using the data and the generated predictions from these notebooks , I started my implementation where I used **Python** to apply 3 different algorithms(**feature selection,feature importance, and decision tree**) with the help of 3 different models(**random forest regressor,gbrt, and decision tree regressor**) to generate explanations for the predictions obtained by the **light GBM model**(used in the notebooks) to determine the most contributing features in these predictions. Then, I used some libraries and functions, to be able to build the knowledge graphs and I also tested my implementation by constructing two graphs, one containing all the features and explanations obtained, while the other contains the essential attributes in terms of all the algorithms of explanation.
 
-&nbsp
+&nbsp;
 
 Furthermore, I constructed a simple database consisting of 19 functions using **Python** also. These functions will allow the user to query the knowledge graph for specific information based on the user's input. Finally, I created a front-end web app and connected it to these back-end functions in order to make the query database more user friendly and easier to deal with. I implemented this app using **Anvil**, which is a platform for building web apps with the use of **Python** mainly.
 
-&nbsp
+&nbsp;
 
 
 - Here is the link for the source code of the **Anvil** app: https://anvil.works/build#clone:5B6U2YV67EORTGGG=6ZUQEFWMCSFEEMV3XIQJC233
@@ -75,7 +75,7 @@ To be able to run the Anvil app that has the client code, you should first conne
 
 **4)** Replace **“your-uplink-key”** with the Uplink key from your app. 
 
-
+&nbsp;
 
 **5)** You will find this line of code written before any function needed to run the app:
 
